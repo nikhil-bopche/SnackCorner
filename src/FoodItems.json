@@ -1,0 +1,182 @@
+[
+  {
+    "imageSource": "../ImagesForSnackCorner/Burger&Fries.jpg",
+    "imageAltername": "Burger & Fries Image",
+    "type": "Combo",
+    "name": "Burger+Fries",
+    "price": "249",
+    "quantity": "0",
+    "totalPrice": "0"
+  },
+  {
+    "imageSource": "../ImagesForSnackCorner/Burger&Fries&Coke.jpg",
+    "imageAltername": "Burger,Fries & Coke Image",
+    "type": "Combo",
+    "name": "Burger+Fries+Coke",
+    "price": "299",
+    "quantity": "0",
+    "totalPrice": "0"
+  },
+  {
+    "imageSource": "../ImagesForSnackCorner/Pizza&Coke.jpg",
+    "imageAltername": "Pizza & coke Image",
+    "type": "Combo",
+    "name": "Pizza+Coke",
+    "price": "209",
+    "quantity": "0",
+    "totalPrice": "0"
+  },
+  {
+    "imageSource": "../ImagesForSnackCorner/PizzaAndFries.jpg",
+    "imageAltername": "Pizza & Fires Image",
+    "type": "Combo",
+    "name": "Pizza+Fries",
+    "price": "249",
+    "quantity": "0",
+    "totalPrice": "0"
+  },
+  {
+    "imageSource": "../ImagesForSnackCorner/IndiTandoriPizza.jpg",
+    "imageAltername": "Indi Tandori Pizza Image",
+    "type": "Veg Pizza",
+    "name": "Indi Tandori Pizza",
+    "price": "149",
+    "quantity": "0",
+    "totalPrice": "0"
+  },
+  {
+    "imageSource": "../ImagesForSnackCorner/cheeseMargherita.jpg",
+    "imageAltername": "Cheese Margherita Pizza Image",
+    "type": "Veg Pizza",
+    "name": "Cheese Margherita Pizza",
+    "price": "149",
+    "quantity": "0",
+    "totalPrice": "0"
+  },
+  {
+    "imageSource": "../ImagesForSnackCorner/cheeseCorn.jpg",
+    "imageAltername": "Cheese Corn Pizza Image",
+    "type": "Veg Pizza",
+    "name": "Cheese Corn Pizza",
+    "price": "159",
+    "quantity": "0",
+    "totalPrice": "0"
+  },
+  {
+    "imageSource": "../ImagesForSnackCorner/CheeseOnionPizza.jpg",
+    "imageAltername": "Cheese Onion Image",
+    "type": "Veg Pizza",
+    "name": "Cheese Onion Pizza",
+    "price": "179",
+    "quantity": "0",
+    "totalPrice": "0"
+  },
+  {
+    "imageSource": "../ImagesForSnackCorner/WhitePasta.jpg",
+    "imageAltername": "White Pasta Image",
+    "type": "Pasta",
+    "name": "White Sauce Pizza",
+    "price": "169",
+    "quantity": "0",
+    "totalPrice": "0"
+  },
+  {
+    "imageSource": "../ImagesForSnackCorner/Coke.jpg",
+    "imageAltername": "Coke Image",
+    "type": "Bevrages",
+    "name": "Coke",
+    "price": "49",
+    "quantity": "0",
+    "totalPrice": "0"
+  },
+  {
+    "imageSource": "../ImagesForSnackCorner/ColdCoffee.jpg",
+    "imageAltername": "ColdCoffee Image",
+    "type": "Bevrages",
+    "name": "Cold Coffee",
+    "price": "79",
+    "quantity": "0",
+    "totalPrice": "0"
+  },
+  {
+    "imageSource": "../ImagesForSnackCorner/Mojito.jpg",
+    "imageAltername": "Mojito Image",
+    "type": "Bevrages",
+    "name": "Mojito",
+    "price": "119",
+    "quantity": "0",
+    "totalPrice": "0"
+  },
+  {
+    "imageSource": "../ImagesForSnackCorner/Pepsi.jpg",
+    "imageAltername": "Pepsi Image",
+    "type": "Bevrages",
+    "name": "Pepsi",
+    "price": "49",
+    "quantity": "0",
+    "totalPrice": "0"
+  },
+  {
+    "imageSource": "../ImagesForSnackCorner/RedBull.jpg",
+    "imageAltername": "RedBull Image",
+    "type": "Bevrages",
+    "name": "RedBull",
+    "price": "59",
+    "quantity": "0",
+    "totalPrice": "0"
+  },
+  {
+    "imageSource": "../ImagesForSnackCorner/PaneerTikkaBiryani.jpg",
+    "imageAltername": "Paneer Tikka Biryani Image",
+    "type": "Veg Biryani",
+    "name": "Paneer Tikka Biryani",
+    "price": "249",
+    "quantity": "0",
+    "totalPrice": "0"
+  },
+  {
+    "imageSource": "../ImagesForSnackCorner/VeggieBiryani.jpg",
+    "imageAltername": "Mix-Veggie Biryani Image",
+    "type": "Veg Biryani",
+    "name": "Mix-Veggie Biryani",
+    "price": "219",
+    "quantity": "0",
+    "totalPrice": "0"
+  },
+  {
+    "imageSource": "../ImagesForSnackCorner/MasalaDumBiryani.jpg",
+    "imageAltername": "Masala Dum Aloo Biryani Image",
+    "type": "Veg Biryani",
+    "name": "Masala Dum Aloo Biryani",
+    "price": "269",
+    "quantity": "0",
+    "totalPrice": "0"
+  },
+  {
+    "imageSource": "../ImagesForSnackCorner/ChickenBiryani.jpg",
+    "imageAltername": "Chicken Biryani Image",
+    "type": "Non-veg Biryani",
+    "name": "Chicken Biryani",
+    "price": "269",
+    "quantity": "0",
+    "totalPrice": "0"
+  },
+  {
+    "imageSource": "../ImagesForSnackCorner/EggBiryani.jpg",
+    "imageAltername": "Egg Biryani Image",
+    "type": "Non-veg Biryani",
+    "name": "Egg Biryani",
+    "price": "229",
+    "quantity": "0",
+    "totalPrice": "0"
+  },
+  {
+    "imageSource": "../ImagesForSnackCorner/MuttonBiryani.jpg",
+    "imageAltername": "Mutton Biryani Image",
+    "type": "Non-veg Biryani",
+    "name": "Mutton Biryani",
+    "price": "229",
+    "quantity": "0",
+    "totalPrice": "0"
+  }
+]
